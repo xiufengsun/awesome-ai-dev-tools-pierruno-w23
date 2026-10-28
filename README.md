@@ -951,6 +951,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** - Context and token-cost optimizer for coding agents that finds wasted tokens, survives compaction, and fights context-quality decay across Claude Code, Codex, OpenCode, and OpenClaw.
 
+**[TokenTracker](https://github.com/xiufengsun/TokenTracker)** - Local-first AI token usage & cost tracker (CLI, dashboard, macOS/Windows/Linux apps) for 20+ coding tools including Claude Code, Codex, Cursor, Gemini, and Copilot. Privacy-first: token counts only, never prompts. [tokentracker.cc](https://www.tokentracker.cc/)
+
 **[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 
 **[toryo](https://github.com/JesseRWeigel/toryo)** - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
